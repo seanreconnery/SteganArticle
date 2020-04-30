@@ -5,7 +5,7 @@ Long ago, the CIA was known for using newspaper articles to send secret messages
 
 This is a quick & dirty "digital grille" cipher.
 
-Created with Python & Flask.
+Created with Python, Flask, and BeautifulSoup.
 
 Run:  python3 main.py
 and open up your browser to 127.0.0.1:5000
